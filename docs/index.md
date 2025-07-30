@@ -6,7 +6,7 @@ hero:
   text: Complete Educational Institution Management
   tagline: Built with FilamentPHP v3 and Laravel 12 for modern educational institutions
   image:
-    src: https://raw.githubusercontent.com/masrur447/student-management-system/main/docs/screenshot.svg
+    src: https://raw.githubusercontent.com/masrur447/school-docs/main/docs/screenshot.svg
     alt: Student Management System
   actions:
     - theme: brand

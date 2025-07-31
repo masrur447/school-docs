@@ -8,7 +8,8 @@ The Basic Attendance System allows you to mark attendance for each student in a 
 
 ### Advanced Attendance System
 
-The Advanced Attendance System allows you to set up a more detailed attendance system.
+The Advanced Attendance System allows you to set up one click attendance system.
+![Advanced Attendance](https://raw.githubusercontent.com/masrur447/school-docs/main/docs/attendance.png)
 
 #### Attendance Reports
 

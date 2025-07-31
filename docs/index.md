@@ -6,7 +6,7 @@ hero:
   text: Complete Educational Institution Management
   tagline: Built with FilamentPHP v3 and Laravel 12 for modern educational institutions
   image:
-    src: https://raw.githubusercontent.com/masrur447/school-docs/main/docs/screenshot.svg
+    src: https://raw.githubusercontent.com/masrur447/school-docs/main/docs/screenshot.png
     alt: Student Management System
   actions:
     - theme: brand
@@ -34,7 +34,7 @@ features:
     details: Dynamic timetable creation with weekly schedules and room allocation management
   - icon: 📚
     title: Library Management
-    details: Complete library system with book catalog, issue tracking, and fine management
+    details: Comprehensive basic library system with book catalog, issue & return system, fine management, and digital resource support
   - icon: 📊
     title: Advanced Reporting
     details: Comprehensive reporting system for attendance, fees, performance, and custom analytics
